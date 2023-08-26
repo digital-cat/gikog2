@@ -1,0 +1,6 @@
+[updater]
+version=1.0.0.0
+url=dummy
+
+n_version=1.72.0.865
+n_url=https://github.com/digital-cat/gikoNaviG2/releases/download/bata72(1.72.0.865)/gikoNavi_b72_865_up_setup.exe
