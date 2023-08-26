@@ -1,0 +1,6 @@
+[updater]
+version=1.70.1.860
+url=http://osdn.dl.sourceforge.jp/gikonavigoeson/62695/gikoNavi_b70_860_usetup.exe
+
+n_version=1.72.0.865
+n_url=https://github.com/digital-cat/gikoNaviG2/releases/download/bata72(1.72.0.864)/gikoNaviG2-1_72_0_864.zip
