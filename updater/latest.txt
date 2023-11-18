@@ -2,5 +2,5 @@
 version=1.73.0.867
 url=https://github.com/digital-cat/gikoNaviG2/releases/download/bata73/gikoNavi_b73_up_setup.exe
 
-n_version=1.74.0.872
-n_url=https://github.com/digital-cat/gikoNaviG2/releases/download/bata73(1.74.0.872)/gikoNavi_b74_872_up_setup.exe
+n_version=1.74.0.873
+n_url=https://github.com/digital-cat/gikoNaviG2/releases/download/bata73(1.74.0.873)/gikoNavi_b74_873_up_setup.exe
