@@ -1,6 +1,10 @@
 [updater]
 version=1.74.1.878
 url=https://github.com/digital-cat/gikoNaviG2/releases/download/bata74(1.74.1.878)/gikoNavi_b74_up_setup.exe
+name= ﬁ¿74
+date=2023/12/30 01:43
 
 n_version=1.74.0.877
 n_url=https://github.com/digital-cat/gikoNaviG2/releases/download/bata73(1.74.0.877)/gikoNavi_b74_877_up_setup.exe
+n_name=êlíåî≈
+n_date=2023/12/10 22:14
