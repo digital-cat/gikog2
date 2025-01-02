@@ -4,7 +4,7 @@ url=https://github.com/digital-cat/gikoNaviG2/releases/download/bata75_1.75.1.91
 name= ﬁ¿75
 date=2024/12/22
 
-n_version=1.75.0.910
-n_url=https://github.com/digital-cat/gikoNaviG2/releases/download/bata74_1.75.0.910/gikoNavi_b75_910_up_setup.exe
+n_version=1.76.0.912
+n_url=https://github.com/digital-cat/gikoNaviG2/releases/download/bata75_1.76.0.912/gikoNavi_b76_912_up_setup.exe
 n_name=êlíåî≈
-n_date=2024/12/17
+n_date=2025/01/03
