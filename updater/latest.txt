@@ -4,10 +4,10 @@ url=https://github.com/digital-cat/gikoNaviG2/releases/download/bata75_1.75.1.91
 name= ﬁ¿75
 date=2024/12/22
 
-n_version=1.76.0.919
-n_url=https://github.com/digital-cat/gikoNaviG2/releases/download/bata75_1.76.0.919/gikoNavi_b76_919_up_setup.exe
+n_version=1.76.0.920
+n_url=https://github.com/digital-cat/gikoNaviG2/releases/download/bata75_1.76.0.920/gikoNavi_b76_920_up_setup.exe
 n_name=êlíåî≈
-n_date=2025/06/22
+n_date=2025/07/06
 
 [updater3]
 version=
@@ -15,7 +15,7 @@ url=
 name=
 date=
 
-n_version=1.76.0.919
-n_url=https://github.com/digital-cat/gikoNaviG2/releases/download/bata75_1.76.0.919/gikoNavi_b76_919_os3_up_setup.exe
+n_version=1.76.0.920
+n_url=https://github.com/digital-cat/gikoNaviG2/releases/download/bata75_1.76.0.920/gikoNavi_b76_920_os3_up_setup.exe
 n_name=êlíåî≈
-n_date=2025/06/22
+n_date=2025/07/06
